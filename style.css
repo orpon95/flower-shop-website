@@ -233,12 +233,12 @@ header {
 .instagram-section>p {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    
+
     font-size: 18px;
-    
+
     font-weight: 400;
     margin-bottom: 50px;
-    
+
 }
 
 .instagram-section-container {
@@ -269,4 +269,50 @@ header {
 .insta-sec4 {
     background-image: url("Flower Asset/rose.png");
 }
+
 /* instagram section end */
+
+/* latest-deal-section start */
+
+.latest-deal-section {
+    max-width: 1440px;
+    height: 450px;
+    background-image: url("Flower Asset/Rectangle.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 130px auto;
+    padding: 120px;
+    text-align: center;
+    box-sizing: border-box;
+
+
+}
+
+.latest-deal-section>h2 {
+    color: #272727;
+    text-align: center;
+
+    font-size: 40px;
+
+    font-weight: 800;
+    margin-bottom: 20px;
+
+}
+
+.latest-deal-section h6 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 400;
+    margin-bottom: 50px;
+
+}
+
+input {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+}
