@@ -51,7 +51,7 @@ header {
 
 /* header portionENd */
 /* main portion start */
-      /* featured section start */
+/* featured section start */
 .featured-section>h2 {
     color: #272727;
     text-align: center;
@@ -138,6 +138,7 @@ header {
 
     text-decoration-line: underline;
 }
+
 /* featured section end */
 
 
@@ -168,6 +169,46 @@ header {
 .contact-section div {
     text-align: center;
 }
+
 /* contact section end */
 
+/* hot deal section start */
+.hot-deal-section {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 230px 0px 160px 390px;
+    background-image: url("Flower Asset/rose2.png");
+    background-repeat: no-repeat;
+   
 
+    background-position: right center;
+    text-align: center;
+    display: flex;
+    margin-top: 130px;
+    
+   
+
+}
+
+.hot-deal-section-container>h2 {
+
+    color: #272727;
+
+    font-size: 40px;
+
+    font-weight: 800;
+    margin-bottom: 40px;
+
+}
+
+.hot-deal-section-container>p {
+    color: rgba(39, 39, 39, 0.60);
+    /* text-align: center; */
+
+    font-size: 18px;
+
+    font-weight: 400;
+    margin-bottom: 50px;
+
+
+}
