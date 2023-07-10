@@ -51,6 +51,7 @@ header {
 
 /* header portionENd */
 /* main portion start */
+      /* featured section start */
 .featured-section>h2 {
     color: #272727;
     text-align: center;
@@ -119,19 +120,54 @@ header {
 
 
 }
-.name-div{
+
+.name-div {
     display: flex;
     justify-content: center;
     gap: 300px;
+    margin-bottom: 128px;
 }
 
 .name-div>p {
     color: #272727;
     text-align: center;
-    
+
     font-size: 30px;
-    
+
     font-weight: 700;
-    
+
     text-decoration-line: underline;
 }
+/* featured section end */
+
+
+/* contact section start */
+
+.contact-section {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 85px 180px;
+}
+
+.contact-section h5 {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+
+    font-size: 24px;
+
+    font-weight: 600;
+
+
+}
+
+.contact-section div {
+    text-align: center;
+}
+/* contact section end */
+
+
