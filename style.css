@@ -10,14 +10,14 @@
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
-    
+
     font-size: 20px;
-    
+
     font-weight: 700;
-    
+
 }
 
-/* header portion */
+/* header portion start */
 header {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
@@ -25,7 +25,7 @@ header {
     background-image: url("Flower Asset/bg1.png");
     background-repeat: no-repeat;
     background-position: right bottom;
-    
+
 }
 
 .header-div>h1 {
@@ -47,4 +47,91 @@ header {
     font-weight: 400;
     margin-bottom: 32px;
 
+}
+
+/* header portionENd */
+/* main portion start */
+.featured-section>h2 {
+    color: #272727;
+    text-align: center;
+
+    font-size: 40px;
+
+    font-weight: 800;
+
+    margin: 180px 0px 24px 0px;
+
+
+}
+
+.featured-section>p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 400;
+    margin-bottom: 50px;
+
+}
+
+.flower-container-div {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+
+}
+
+.flower-container-child-div1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+    background-image: url("Flower Asset/bg2.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    margin-bottom: 32px;
+}
+
+.flower-container-child-div2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    background-image: url("Flower Asset/bg3.png");
+    background-repeat: no-repeat;
+    height: 538px;
+
+    background-position: center;
+    margin-bottom: 32px;
+
+}
+
+.flower-container-child-div3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    background-image: url("Flower Asset/bg4.png");
+    background-repeat: no-repeat;
+    height: 538px;
+
+    background-position: bottom center;
+    margin-bottom: 32px;
+
+
+}
+.name-div{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.name-div>p {
+    color: #272727;
+    text-align: center;
+    
+    font-size: 30px;
+    
+    font-weight: 700;
+    
+    text-decoration-line: underline;
 }
