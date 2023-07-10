@@ -316,3 +316,18 @@ input {
     width: 700px;
     height: 64px;
 }
+/* latest-deal-section end */
+
+
+/* add-to-cart section start */
+.add-to-cart{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    text-align: center;
+    padding: 30px;
+}
+.add-to-cart img{
+    height: 300px;
+    margin-bottom: 10px;
+}
