@@ -179,14 +179,14 @@ header {
     padding: 230px 0px 160px 390px;
     background-image: url("Flower Asset/rose2.png");
     background-repeat: no-repeat;
-   
+
 
     background-position: right center;
     text-align: center;
     display: flex;
     margin-top: 130px;
-    
-   
+
+
 
 }
 
@@ -203,7 +203,7 @@ header {
 
 .hot-deal-section-container>p {
     color: rgba(39, 39, 39, 0.60);
-    /* text-align: center; */
+
 
     font-size: 18px;
 
@@ -212,3 +212,61 @@ header {
 
 
 }
+
+/* hot deal section end */
+
+
+/* instagram section start */
+.instagram-section>h1 {
+    color: #272727;
+    text-align: center;
+
+    font-size: 40px;
+
+    font-weight: 800;
+    margin: 130px 0px 24px 0px;
+
+
+
+}
+
+.instagram-section>p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    
+    font-size: 18px;
+    
+    font-weight: 400;
+    margin-bottom: 50px;
+    
+}
+
+.instagram-section-container {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.instagram-section-container div {
+    width: 340px;
+    height: 400px;
+
+
+}
+
+.insta-sec1 {
+    background-image: url("Flower Asset/rose3.png");
+}
+
+.insta-sec2 {
+    background-image: url("Flower Asset/flower1.png");
+}
+
+.insta-sec3 {
+    background-image: url("Flower Asset/flower2.png");
+}
+
+.insta-sec4 {
+    background-image: url("Flower Asset/rose.png");
+}
+/* instagram section end */
