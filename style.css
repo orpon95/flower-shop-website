@@ -1,0 +1,50 @@
+/* shared portion */
+* {
+    font-family: 'Lato', sans-serif;
+    margin: 0px;
+
+}
+
+.btn-primary {
+    padding: 20px 45px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    
+    font-size: 20px;
+    
+    font-weight: 700;
+    
+}
+
+/* header portion */
+header {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    padding: 200px 0px 150px 240px;
+    background-image: url("Flower Asset/bg1.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    
+}
+
+.header-div>h1 {
+    color: #272727;
+
+
+    font-size: 80px;
+
+    font-weight: 800;
+    margin-bottom: 32px;
+
+}
+
+.header-div>p {
+    color: rgba(39, 39, 39, 0.60);
+
+    font-size: 18px;
+
+    font-weight: 400;
+    margin-bottom: 32px;
+
+}
