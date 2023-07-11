@@ -54,9 +54,9 @@ header {
 
 }
 
-/* header portionENd */
+    /* header portionENd */
 /* main portion start */
-/* featured section start */
+    /* featured section start */
 .featured-section>h2 {
     color: #272727;
     text-align: center;
@@ -366,9 +366,11 @@ h1{
     margin-bottom: 20px;
 
 }
-/* add-to-cart section start */
+       /* add-to-cart section start */
 
-/* footer portion start */
+/* main portion end*/
+
+        /* footer portion start */
 footer{
     background-color: black;
     padding: 128px 0px;
@@ -407,3 +409,4 @@ footer h6 {
     font-weight: 400;
    
 }
+ /* footer portion end */
