@@ -350,6 +350,14 @@ input {
     margin-bottom: 130px;
 }
 
+.add-to-cart div{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
 .add-to-cart img {
     height: 300px;
     margin-bottom: 10px;
@@ -364,10 +372,11 @@ input {
 
 .add-to-cart p {
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     margin-bottom: 20px;
 
 }
+
 
 /* add-to-cart section start */
 
