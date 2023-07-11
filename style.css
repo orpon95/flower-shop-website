@@ -54,9 +54,9 @@ header {
 
 }
 
-    /* header portionENd */
+/* header portionENd */
 /* main portion start */
-    /* featured section start */
+/* featured section start */
 .featured-section>h2 {
     color: #272727;
     text-align: center;
@@ -323,13 +323,13 @@ input {
 }
 
 /* latest-deal-section end */
-h1{
+#extra-header {
     text-align: center;
     font-weight: bolder;
     font-size: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     text-decoration: underline;
-    
+
 }
 
 
@@ -340,7 +340,7 @@ h1{
     gap: 30px;
     text-align: center;
     padding: 40px;
-    background-color: #f6d9f1;
+    background-color: #f9e8f7;
     border-radius: 10px;
     max-width: 80%;
     margin: 0 auto;
@@ -366,12 +366,13 @@ h1{
     margin-bottom: 20px;
 
 }
-       /* add-to-cart section start */
+
+/* add-to-cart section start */
 
 /* main portion end*/
 
-        /* footer portion start */
-footer{
+/* footer portion start */
+footer {
     background-color: black;
     padding: 128px 0px;
 }
@@ -403,10 +404,11 @@ footer p {
 footer h6 {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
-    
+
     font-size: 16px;
-    
+
     font-weight: 400;
-   
+
 }
- /* footer portion end */
+
+/* footer portion end */
