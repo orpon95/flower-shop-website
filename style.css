@@ -320,6 +320,8 @@ input {
     background: #FFF;
     width: 700px;
     height: 64px;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 /* latest-deal-section end */
